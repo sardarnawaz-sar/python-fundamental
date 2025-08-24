@@ -33,3 +33,7 @@
 # val2 = True
 # print("and operator", val1 and val2)
 # print("or operator", val1 or val2)
+a = 12
+b = 3
+print(a%b)
+print(a**b)
