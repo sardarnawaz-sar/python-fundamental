@@ -32,5 +32,5 @@
 # second = int(input("second number :"))
 # print("sum =", first + second)
 #wap to side of a square & print its area
-side = float(input("enter square side :"))
-print("area =", side * side)
+# side = float(input("enter square side :"))
+# print("area =", side * side)
