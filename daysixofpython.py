@@ -72,11 +72,12 @@
 #         return 1
 #     return fact(n-1) * n
 # print(fact(5))
-def calc_sum(n):
-    if(n==0):
-        return 0
-    print(n)
-    return calc_sum(n-1) + n               
+# def calc_sum(n):
+#     if(n==0):
+#         return 0
+#     print(n)
+#     return calc_sum(n-1) + n               
 
-sum = calc_sum(5)
-print(sum)
+# sum = calc_sum(5)
+# print(sum)
+
